@@ -20,5 +20,3 @@ https://github.com/Yansyuei/Google-voice/blob/master/AsakuraFuuko-click.js
 https://github.com/Yansyuei/Google-voice/blob/master/taobao.md
 
 
-~~**最后(无耻的广告)**~~<br>
-https://github.com/Yansyuei/Google-voice/blob/master/ad.md
