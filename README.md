@@ -16,7 +16,4 @@ https://github.com/Yansyuei/Google-voice/blob/master/AsakuraFuuko-click.js
 - google voice附加条款(必读)-中文
 - https://github.com/Yansyuei/Google-voice/blob/master/legal-notices.md<br>
 
-**美国代验证**<br>
-https://github.com/Yansyuei/Google-voice/blob/master/taobao.md
-
 
